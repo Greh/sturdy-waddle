@@ -1,2 +1,2 @@
 print("Hello World!")
-print("Hey look a puppy!")
+print("Hey look a kitten!")
